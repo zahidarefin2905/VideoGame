@@ -1,0 +1,3 @@
+// given() - all input details: header, body
+// when() - submit api: get, put, post, patch, delete
+// then() - validate the response
